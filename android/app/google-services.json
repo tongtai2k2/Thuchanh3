@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620461219548",
+    "project_id": "pushthuchanh",
+    "storage_bucket": "pushthuchanh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620461219548:android:491dd3ecfe3c14ef165e19",
+        "android_client_info": {
+          "package_name": "com.thuchanh3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWK8SEPnTkqI6xZ9CI2B9OS3pZu9nYAjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
